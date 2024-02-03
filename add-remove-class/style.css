@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hide-content, .show-content{
+    margin-top:5px;
+}
+.show-content{
+    display: none;
+}
+.show-hide{
+    text-align: center;
+}
+.show-btn{
+    margin-top:5px;
+    background-color: green;
+    color:#fff;
+    padding: 10px 10px;
+    border:none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.hide-btn{
+    margin-top:5px;
+    background-color: red;
+    color:#fff;
+    padding: 10px 10px;
+    border:none;
+    border-radius: 10px;
+    cursor: pointer;
+}
