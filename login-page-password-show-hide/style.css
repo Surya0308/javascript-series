@@ -1,0 +1,61 @@
+#login-body {
+    background: #91769b;
+}
+.login-container{
+    margin-top: 125px;
+}
+#User-login-form {
+   display:flex !important;
+   justify-content:center;
+}
+.user-pass-section{
+    /* display: inline-block; */
+    background-color: #b3e5e5;
+    padding: 20px 20px 27px 20px;
+}
+
+.password-section {
+    margin-top: 10px;
+    position: relative;
+}
+
+#username, #password {
+    width: 220px;
+    height: 30px;
+}
+
+.login-button {
+    width: 228px;
+    height: 37px;
+    margin-top: 13px;
+    background-color: #415ce2;
+    color: white;
+    border: none;
+}
+
+.remember-section{
+    margin-top: 10px;
+}
+
+.cancelbtn {
+    color: #fff;
+    background-color: #f95e5e;
+    border: none;
+    padding: 7px 10px;
+}
+
+.cancel-forgot-psw-section {
+    margin-top: 10px;
+    background-color: #e9e9e9cf;
+    padding: 10px;
+}
+
+span.psw {
+    float: right;
+}
+
+.pass-visibility{
+    position: absolute;
+    right: 11px;
+    bottom: 8px;
+}
