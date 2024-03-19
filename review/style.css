@@ -1,0 +1,34 @@
+#person-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: top;
+}
+
+#review-container{
+    text-align: center;
+}
+button.random-btn {
+    color: #4abede;
+    border-radius: 12px;
+    border-color: #4abede;
+    background-color: #bad7df;
+}
+button.prev-btn, .next-btn {
+    border: none;
+    background: unset;
+    color: #4abede;
+}
+p#job {
+    font-size: 18px;
+    color: #4abede;
+    text-transform: uppercase;
+
+}
+article.review {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+     padding: 10px 0px;
+}
+    
+    
