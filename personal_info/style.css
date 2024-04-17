@@ -1,0 +1,22 @@
+h1{
+    color: rgb(248, 90, 201);
+    font-style: italic;
+}
+span{
+    color: purple;
+    font-size: 30px; 
+}
+#info-btn{
+    background-color: rgb(70, 171, 221);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+}
+/* #info-btn{
+    background-color: rgb(95, 221, 70);
+    padding: 10px 20px;
+    color: white;
+    font-weight: bolder;
+} */
