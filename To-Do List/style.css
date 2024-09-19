@@ -1,0 +1,10 @@
+li button {
+    margin: .5rem .5rem;
+    background-color: red;
+    color: #fff;
+    border: 1px solid #ff3939;
+}
+
+li {
+    list-style: decimal-leading-zero;
+}
