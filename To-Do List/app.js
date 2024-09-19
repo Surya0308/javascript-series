@@ -24,7 +24,7 @@ function addTask() {
     //Clear the input
     taskInput.value = '';
 
-    console.log(taskTest)
+    //console.log(taskTest)
 }
 
 // Add event listener to the button
